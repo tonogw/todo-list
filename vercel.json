@@ -1,4 +1,8 @@
 {
-  "buildCommang": "npm run build",
-  "outputDirectory": "."
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
 }
