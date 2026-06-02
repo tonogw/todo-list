@@ -1,0 +1,4 @@
+{
+  "buildCommang": "npm run build",
+  "outputDirectory": "."
+}
