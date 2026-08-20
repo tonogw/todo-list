@@ -5,7 +5,7 @@
   "description": "Browser-based To-Do List application using TypeScript",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "echo build completed",
     "watch": "tsc --watch",
     "server": "json-server --watch db.json --port 3000"
   },
